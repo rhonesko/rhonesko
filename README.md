@@ -10,6 +10,4 @@ Estou em processo de migração profissional, buscando oportunidades como desenv
 -  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
 <br>
-Midias Sociais
-<br>
-<a href="https://www.linkedin.com/in/rafael-honesko-altismo-92a97322b/</a>
+
